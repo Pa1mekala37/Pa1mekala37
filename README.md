@@ -1,14 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm PAVAN MEKALA</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
+<img align="right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pa1mekala37" alt="pa1mekala37" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
+## About Me :
+
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
+• 🔭 I’m currently working on <b>React</b> <br/>
+• 👯 I’m looking to collaborate on cool project.<br/>
+• 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
+• 💬 Contact me at <a href="https://www.instagram.com/iam_pvn"><b>@iam_pvn</b></a><br/>
 - 📫 How to reach me **pavanmekala0129@gmail.com**
+
+</span>
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,16 +41,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa1mekala37&" alt="pa1mekala37" /></p>
 
 
-## Fun Fact 🎈:
-
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/iam_pvn"><b>@iam_pvn</b></a><br/>
-</span>
-
-<br />
-<br /> 
