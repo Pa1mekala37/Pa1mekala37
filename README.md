@@ -20,8 +20,6 @@
 • 📌 <a href="https://drive.google.com/file/d/1kPFvRqxOLFIcXqEx6Ei75roQIUvw569K/view?usp=sharing" target="_blank">Resume</a>
 
 </span>
-<br />
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
