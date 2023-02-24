@@ -15,7 +15,7 @@
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
 • 💬 Contact me at <a href="https://www.instagram.com/iam_pvn"><b>@iam_pvn</b></a><br/>
-• 📫 Reach me at pavanmekala2021@gmail.com<br/>
+• 📫 Reach me @ pavanmekala2021@gmail.com<br/>
 
 </span>
 
