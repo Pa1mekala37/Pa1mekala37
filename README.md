@@ -11,7 +11,7 @@
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-• 🔭 I’m currently working on <b>React</b> <br/>
+• 🔭 I’m currently working on <b>React,</b> <b>Angular</b><br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
 • 💬 Contact me at <a href="https://www.instagram.com/iam_pvn"><b>@iam_pvn</b></a><br/>
