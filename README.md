@@ -15,8 +15,9 @@
 • 🔭 I’m currently working on <b>React,</b> <b>Angular</b><br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
-• 💬 Contact me at <a href="https://www.instagram.com/iam_pvn"><b>@iam_pvn</b></a><br/>
+• 💬 Contact me at <a href="https://www.instagram.com/iam_pvn" target="_blank"><b>@iam_pvn</b></a><br/>
 • 📫 Reach me pavanmekala0129@gmail.com<br/>
+• 💼 <a href="https://pavan-portfolio-jo8t.onrender.com" target="_blank"><b>Portfolio</b></a><br/>
 </span>
 
 <br/>
