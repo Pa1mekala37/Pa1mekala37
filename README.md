@@ -11,7 +11,6 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 <img align="right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 • 🔭 I’m currently working on <b>React,</b> <b>Angular</b><br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
@@ -27,7 +26,7 @@
 <a href="https://twitter.com/iampvn37" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="iampvn37" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
 <a href="https://instagram.com/iam_pvn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="iam_pvn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/@pavanmekala72826" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@pavanmekala72826" height="40" width="40"  margin="5"/></a>
+<a href="https://www.hackerrank.com/pavanmekala72826" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@pavanmekala72826" height="40" width="40"  margin="5"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
