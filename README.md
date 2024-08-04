@@ -49,7 +49,7 @@
   <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722789603/GitHub/Github_itfzxr.png" alt="gitHub" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a> 
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="OpenAI" width="50" height="50"/></a> 
-  <a href="https://figma.com" target="_blank" rel="noreferrer" title='Figma'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676613529/GitHub/figma_vz95jh.jpg" alt="Figma" width="50" height="50"/> </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722791983/GitHub/swagger_kjeyza.svg" alt="Swagger" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676614161/GitHub/microsoft_visual_studio_code_macos_bigsur_icon_189957_nbuglz.png" alt="VS CODE" width="50" height="50"/> </a>  </a>  
 </p>
 
