@@ -9,7 +9,6 @@
 <img align="right" alt="coding"  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 • 🔭 I’m currently working on <b>MEAN/</b> <b>MERN</b><br/>
-• 👯 I’m looking to collaborate on cool project.<br/>
 • 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
 • 💬 Contact me at <a href="https://www.instagram.com/iam_pvn" target="_blank"><b>@iam_pvn</b></a><br/>
 • 📫 Reach me pavanmekala0129@gmail.com<br/>
