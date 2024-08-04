@@ -1,12 +1,9 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PAVAN MEKALA</h1>
 <h3 align="center">Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
-
 <p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
 ## About Me :
-
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 <img align="right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -35,9 +32,7 @@
 ### :fire: My Stats :
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pa1mekala37&show_icons=true&theme=github"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanmekala37&show_icons=true&theme=github"  display=block width=100% height=auto  alt="Graph Stats" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pa1mekala37&show_icons=true&locale=en&layout=compact" alt="pa1mekala37" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1mekala37&show_icons=true&locale=en" alt="pa1mekala37" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa1mekala37&" alt="pa1mekala37" /></p>
