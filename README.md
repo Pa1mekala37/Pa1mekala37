@@ -12,7 +12,7 @@
 • 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
 • 💬 Contact me at <a href="https://www.instagram.com/iam_pvn" target="_blank"><b>@iam_pvn</b></a><br/>
 • 📫 Reach me pavanmekala0129@gmail.com<br/>
-• 💼 <a href="https://pavan-portfolio-jo8t.onrender.com" target="_blank"><b> Visit My Portfolio</b></a><br/>
+• 💼 <a href="https://pavan-mekala.web.app" target="_blank"><b> Visit My Portfolio</b></a><br/>
 </span>
 
 <br/>
