@@ -1,5 +1,10 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PAVAN MEKALA</h1>
-<h3 align="center">Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PAVAN MEKALA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Giphy"></h1>
+
+
+<div align="center" style="display: flex; align-items: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer+from+India" alt="Typing SVG" style="margin-right: 10px;">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
 <p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
