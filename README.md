@@ -1,5 +1,10 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PAVAN MEKALA</h1>
-<h3 align="center">Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PAVAN MEKALA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Giphy"></h1>
+
+
+<div align="center" style="display: flex; align-items: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer+from+India" alt="Typing SVG" style="margin-right: 10px;">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
 <p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
@@ -43,6 +48,7 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title='SASS'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title='Bootstrap'> <img src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" alt="Bootstrap" width="50" height="50"/> </a>
   <a href="https://material.angular.io/" target="_blank" rel="noreferrer" title='Angular Material UI'> <img src="https://material.angular.io/assets/img/favicons/android-chrome-192x192.png" alt="Angular Material UI" width="50" height="50"/> </a>
+<!--   <a href="https://nodemon.io" target="_blank" rel="noreferrer" title='nodemon'> <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="45" height="50"/> </a> -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title='Linux'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
