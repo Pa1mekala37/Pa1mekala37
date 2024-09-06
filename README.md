@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title='Python'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title='Node.js'> <img src="https://ezerus.com.au/wp-content/uploads/2019/05/nodejs-square-200.png" alt="nodejs" width="50" height="50"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title='Node.js'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1725631331/GitHub/nodejs.png" alt="nodejs" width="50" height="50"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" title='Express.js'> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="50" height="50"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title='Javascript'> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title='Typescript'> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="50" height="50"/> </a>
