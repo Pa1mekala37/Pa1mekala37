@@ -63,7 +63,25 @@
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pa1mekala37&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
-<p><img align="left" src="github-readme-stats-three-gamma-87.vercel.app/api/top-langs/?username=Pa1mekala37&langs_count=8" alt="Pa1mekala37" /></p>
-<p>&nbsp;<img align="center" src="github-readme-stats-three-gamma-87.vercel.app/api?username=Pa1mekala37&show_icons=true&locale=en&rank_icon=github" alt="Pa1mekala37" /></p>
+<a href="https://github.com/Pa1mekala37#gh-light-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Pa1mekala37&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only"
+            alt="My Github stats"
+            height="370"
+          />
+      </td>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs/?username=Pa1mekala37&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
+            alt="My Language stats"
+            width="280"
+          />
+      </td>
+    </tr>
+  </table>
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pa1mekala37&" alt="pa1mekala37" /></p>
