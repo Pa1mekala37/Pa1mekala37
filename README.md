@@ -63,6 +63,6 @@
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pa1mekala37&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa1mekala37&langs_count=8" alt="pa1mekala37" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa1mekala37&langs_count=8" alt="pa1mekala37" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa1mekala37&show_icons=true&locale=en&rank_icon=github" alt="pa1mekala37" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa1mekala37&" alt="pa1mekala37" /></p>
