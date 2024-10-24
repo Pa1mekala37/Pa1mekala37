@@ -24,19 +24,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iampvn37" target="blank" title='Twitter'><img align="center" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="iampvn37" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank" title='LinkedIn'><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
+<a href="https://twitter.com/iampvn37" target="blank" title='Twitter'><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iampvn37" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank" title='LinkedIn'><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
 <a href="https://instagram.com/iam_pvn" target="blank" title='Instagram'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="iam_pvn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/pavanmekala72826" target="blank" title='HackerRank'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40"  margin="5"/></a>
+<a href="https://www.hackerrank.com/pavanmekala72826" target="blank" title='HackerRank'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40" margin="5"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title='Python'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title='Node.js'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1725631331/GitHub/nodejs.png" alt="nodejs" width="50" height="50"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title='Express.js'> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title='Javascript'> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title='Typescript'> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="50" height="50"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title='Express.js'> <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title='Javascript'> <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="javascript" width="50" height="50"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title='Typescript'> <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="Typescript" width="50" height="50"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  title='React.js'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
   <a href="https://angular.dev" target="_blank" rel="noreferrer" title='Angular'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722853385/GitHub/Angular-logo_zvv8eu.png" alt="angular" width="50" height="50"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title='PostgreSQL'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" width="50" height="50"/> </a>
@@ -51,14 +51,16 @@
 <!-- <a href="https://nodemon.io" target="_blank" rel="noreferrer" title='nodemon'> <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="45" height="50"/> </a> -->
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer" title='Firebase'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729774197/GitHub/firebase.png" alt="nodemon" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title='Linux'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" alt="gitHub" width="55" height="55"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title='Jenkins'> <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="gitHub" width="55" height="55"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a> 
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="OpenAI" width="50" height="50"/></a> 
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722791983/GitHub/swagger_kjeyza.svg" alt="Swagger" width="50" height="50"/> </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676614161/GitHub/microsoft_visual_studio_code_macos_bigsur_icon_189957_nbuglz.png" alt="VS CODE" width="50" height="50"/> </a>  </a>  
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676614161/GitHub/microsoft_visual_studio_code_macos_bigsur_icon_189957_nbuglz.png" alt="VS CODE" width="50" height="50"/> </a>
+  <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer" title='PyCharm'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729787852/GitHub/Pycharm.png" alt="PyCharm" width="50" height="50"/> </a>
+  </a>  
 </p>
 
 ### :fire: My Stats :
