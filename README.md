@@ -55,6 +55,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" alt="gitHub" width="55" height="55"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title='Jenkins'> <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="gitHub" width="55" height="55"/> </a>
+  <a href="https://aws.amazon.com/lambda" target="_blank" rel="noreferrer" title='AWS Lambda'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/r_50/v1737052005/GitHub/Aws_Lambda_e0klld.png" alt="AWS Lambda" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title='Github Actions'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1732272913/GitHub/github_actions.png" alt="Github Actions" width="50" height="50"/> </a>
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="OpenAI" width="50" height="50"/></a>
