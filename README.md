@@ -60,6 +60,7 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title='Github Actions'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1732272913/GitHub/github_actions.png" alt="Github Actions" width="50" height="50"/> </a>
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="OpenAI" width="50" height="50"/></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722791983/GitHub/swagger_kjeyza.svg" alt="Swagger" width="50" height="50"/> </a>
+  <a href="https://www.keycloak.org" target="_blank" rel="noreferrer" title='Keycloak'> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="Keycloak" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676614161/GitHub/microsoft_visual_studio_code_macos_bigsur_icon_189957_nbuglz.png" alt="VS CODE" width="50" height="50"/> </a>
   <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer" title='PyCharm'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729787852/GitHub/Pycharm.png" alt="PyCharm" width="50" height="50"/> </a>
   </a>  
