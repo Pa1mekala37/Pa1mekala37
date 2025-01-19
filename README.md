@@ -66,7 +66,7 @@
   </a>  
 </p>
 
-### :fire: My Stats :
+### <img src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pa1mekala37&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
