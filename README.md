@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iampvn37" target="blank" title='Twitter'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/twitter-anime.gif" alt="iampvn37" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank" title='LinkedIn'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/linkedin-anime.gif" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
-<a href="https://instagram.com/iam_pvn" target="blank" title='Instagram'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/instagram-anime.gif" alt="iam_pvn" height="40" width="40" /></a>
+<a href="https://twitter.com/iampvn37" target="blank" title='Twitter'><img align="center" src="./assets/twitter-anime.gif" alt="iampvn37" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank" title='LinkedIn'><img align="center" src="./assets/linkedin-anime.gif" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
+<a href="https://instagram.com/iam_pvn" target="blank" title='Instagram'><img align="center" src="./assets/instagram-anime.gif" alt="iam_pvn" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/pavanmekala72826" target="blank" title='HackerRank'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40" margin="5"/></a>
 </p>
 
@@ -66,7 +66,7 @@
   </a>  
 </p>
 
-### <img src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
+### <img src="./assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pa1mekala37&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
