@@ -42,6 +42,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title='PostgreSQL'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title='MySQL'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title='MongoDB'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer" title='Redis'> <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="redis" width="50" height="50"/> </a>
   <a href="https://knexjs.org" target="_blank" rel="noreferrer" title='Knex.js'> <img src="https://knexjs.org/knex-logo.png" alt="Knex.js" width="50" height="50"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title='HTML'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title='CSS'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
@@ -62,8 +63,8 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722791983/GitHub/swagger_kjeyza.svg" alt="Swagger" width="50" height="50"/> </a>
   <a href="https://www.keycloak.org" target="_blank" rel="noreferrer" title='Keycloak'> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="Keycloak" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676614161/GitHub/microsoft_visual_studio_code_macos_bigsur_icon_189957_nbuglz.png" alt="VS CODE" width="50" height="50"/> </a>
-  <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer" title='PyCharm'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729787852/GitHub/Pycharm.png" alt="PyCharm" width="50" height="50"/> </a>
-  </a>  
+<!--   <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer" title='PyCharm'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729787852/GitHub/Pycharm.png" alt="PyCharm" width="50" height="50"/> </a>
+  </a>   -->
 </p>
 
 ### <img src="./assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
