@@ -16,7 +16,7 @@
 • 🔭 I’m currently working on <b>MEAN/</b> <b>MERN Stack</b><br/>
 • 👨‍💻 Ask me about <b>Full Stack<br/>
 • 💬 Contact me at <a href="https://www.instagram.com/iam_pvn" target="_blank"><b>@iam_pvn</b></a><br/>
-• 📫 Reach me pavanmekala0129@gmail.com<br/>
+• 📫 Reach me pavanmekala.dev@gmail.com<br/>
 • 💼 <a href="https://pavan-mekala.web.app" target="_blank"><b> Visit My Portfolio</b></a><br/>
 </span>
 
