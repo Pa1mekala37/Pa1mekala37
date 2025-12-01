@@ -62,7 +62,8 @@
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="./assets/skills_logo/openai.svg" alt="OpenAI" width="50" height="50"/></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="./assets/skills_logo/swagger.svg" alt="Swagger" width="50" height="50"/> </a>
   <a href="https://www.keycloak.org" target="_blank" rel="noreferrer" title='Keycloak'> <img src="./assets/skills_logo/keycloak.svg" alt="Keycloak" width="50" height="50"/> </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="./assets/skills_logo/visual_studio_code.svg" alt="VS CODE" width="50" height="50"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" title='Apache Airflow'> <img src="./assets/skills_logo/airflow.svg" alt="Apache Airflow" width="50" height="50"/> </a>
+  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="./assets/skills_logo/visual_studio_code.svg" alt="VS CODE" width="50" height="50"/> </a> -->
 <!--   <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer" title='PyCharm'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729787852/GitHub/Pycharm.png" alt="PyCharm" width="50" height="50"/> </a>
   </a>   -->
 </p>
