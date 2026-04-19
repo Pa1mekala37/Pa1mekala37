@@ -52,13 +52,15 @@
 <!-- <a href="https://nodemon.io" target="_blank" rel="noreferrer" title='nodemon'> <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="45" height="50"/> </a> -->
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer" title='Firebase'> <img src="./assets/skills_logo/firebase.svg" alt="nodemon" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title='Linux'> <img src="./assets/skills_logo/linux.svg" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer" title='Nginx'> <img src="./assets/skills_logo/nginx.svg" alt="Nginx" width="50" height="50"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title='Docker'> <img src="./assets/skills_logo/Docker.svg" alt="Docker" width="50" height="50"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'> <img src="./assets/skills_logo/bash.svg" alt="bash" width="50" height="50" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="./assets/skills_logo/git.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="./assets/skills_logo/github.svg" alt="gitHub" width="55" height="55"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title='Jenkins'> <img src="./assets/skills_logo/jenkins.svg" alt="gitHub" width="55" height="55"/> </a>
   <a href="https://aws.amazon.com/lambda" target="_blank" rel="noreferrer" title='AWS Lambda'> <img src="./assets/skills_logo/aws_lambda.svg" alt="AWS Lambda" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> <img src="./assets/skills_logo/postman.svg" alt="postman" width="50" height="50"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title='Github Actions'> <img src="./assets/skills_logo/github_actions.svg" alt="Github Actions" width="50" height="50"/> </a>
+  <!-- <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title='Github Actions'> <img src="./assets/skills_logo/github_actions.svg" alt="Github Actions" width="50" height="50"/> </a> -->
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="./assets/skills_logo/openai.svg" alt="OpenAI" width="50" height="50"/></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="./assets/skills_logo/swagger.svg" alt="Swagger" width="50" height="50"/> </a>
   <a href="https://www.keycloak.org" target="_blank" rel="noreferrer" title='Keycloak'> <img src="./assets/skills_logo/keycloak.svg" alt="Keycloak" width="50" height="50"/> </a>
