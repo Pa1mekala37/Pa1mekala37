@@ -43,9 +43,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title='MySQL'> <img src="./assets/skills_logo/mysql.svg" alt="mysql" width="50" height="50"/> </a>  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title='MongoDB'> <img src="./assets/skills_logo/mongodb.svg" alt="mongodb" width="50" height="50"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer" title='Redis'> <img src="./assets/skills_logo/redis.svg" alt="redis" width="50" height="50"/> </a>
+  <a href="https://github.com/elastic/elasticsearch" target="_blank" rel="noreferrer" title='Elastic Search'> <img src="./assets/skills_logo/elastic-search.svg" alt="elasticsearch" width="50" height="50"/> </a>
   <a href="https://knexjs.org" target="_blank" rel="noreferrer" title='Knex.js'> <img src="./assets/skills_logo/knexjs.svg" alt="Knex.js" width="50" height="50"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title='HTML'> <img src="./assets/skills_logo/html.svg" alt="html5" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title='CSS'> <img src="./assets/skills_logo/css.svg" alt="css3" width="50" height="50"/> </a> 
+  <!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title='CSS'> <img src="./assets/skills_logo/css.svg" alt="css3" width="50" height="50"/> </a>  -->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title='SASS'> <img src="./assets/skills_logo/sass.svg" alt="SASS" width="50" height="50"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title='Bootstrap'> <img src="./assets/skills_logo/bootstrap.svg" alt="Bootstrap" width="50" height="50"/> </a>
   <a href="https://material.angular.io/" target="_blank" rel="noreferrer" title='Angular Material UI'> <img src="./assets/skills_logo/angular_material_ui.svg" alt="Angular Material UI" width="50" height="50"/> </a>
